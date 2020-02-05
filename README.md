@@ -3,11 +3,11 @@
 
 ## 项目演示
 
-[](https://gitee.com/ericam/django-simpleblog/blob/master/image-show/1580840549926.gif )
+![](https://github.com/850552586/django-simpleblog/blob/master/image-show/1580840549926.gif?raw=true)
 
-[](https://gitee.com/ericam/django-simpleblog/blob/master/image-show/1580840557524.gif )
+![](https://gitee.com/ericam/django-simpleblog/blob/master/image-show/1580840557524.gif )
 
-[](https://gitee.com/ericam/django-simpleblog/blob/master/image-show/1580840561277.gif )
+![](https://gitee.com/ericam/django-simpleblog/blob/master/image-show/1580840561277.gif )
 
 
 
