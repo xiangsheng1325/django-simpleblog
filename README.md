@@ -14,4 +14,5 @@
 #### 尾言
 
 如果你觉得本项目对你的django学习有帮助，希望可以打赏~蟹蟹泥们
+![](https://github.com/850552586/django-simpleblog/blob/master/image-show/TIM%E5%9B%BE%E7%89%8720200205174526.png?raw=true)
 
